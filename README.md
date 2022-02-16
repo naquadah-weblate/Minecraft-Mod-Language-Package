@@ -1,9 +1,10 @@
-# Minecraft-Mod-Language-Package, 但是由基于开放的社区投票
+# Minecraft-Mod-Language-Package, 但是由基于开放的社区
+
+正在组建新的汉化组 详情加群 941487663
 also check out <https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/pull/1536>
 ![](images/1.png)
 ![](images/2.jpg)
 ![pack.png](https://i.loli.net/2018/02/18/5a8974407b453.png)
-项目仍在进行中。
 ---
 
 <div align="center">
