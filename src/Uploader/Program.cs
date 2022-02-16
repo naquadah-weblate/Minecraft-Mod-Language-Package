@@ -70,7 +70,7 @@ namespace Uploader
                 }
                 Log.Logger.Information("上传成功");
                 scpClient.Dispose();
-                using var sshClient = new SshClient(host, 2, name, password);
+                using var sshClient = new SshClient(host, 22, name, password);
                 sshClient.Connect();
                 if (sshClient.IsConnected)
                 {
