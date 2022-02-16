@@ -1,4 +1,6 @@
-
+# Minecraft-Mod-Language-Package, 但是替换纳夸达为硅岩
+also check out <https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/pull/1536>
+also <https://github.com/Cyl18/NaquadahFix>
 ![](images/1.png)
 ![](images/2.jpg)
 ![pack.png](https://i.loli.net/2018/02/18/5a8974407b453.png)
