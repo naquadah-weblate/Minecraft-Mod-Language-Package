@@ -1,0 +1,1011 @@
+3b973ec04a 2022-02-15 fixes
+59e122290f 2022-02-14 fixes
+cf1945dd3a 2022-02-14 some unifying
+4bc2e893e5 2022-02-13 Update zh_cn.lang
+cd53f79fbb 2022-02-13 jus‘ like uranium 239
+d3558f4a3e 2022-02-13 wadat
+8a8250b17c 2022-02-13 byprod
+585c9dd5b8 2022-02-13 naquadah
+20a56930f4 2022-02-13 Update zh_cn.lang
+5284a604f5 2022-02-13 Update zh_cn.lang
+81ec6fd2d6 2022-02-13 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+29872d921f 2022-02-13 Update zh_cn.lang
+fdc6c38b77 2022-02-13 acetate
+7ab1dc26d3 2022-02-13 board board
+806022a9fb 2022-02-13 Update zh_cn.lang
+a76f22cbbc 2022-02-13 Update zh_cn.lang
+55dac72667 2022-02-13 gearBOX
+3f35ca7383 2022-02-12 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+b40b508df6 2022-02-12 Update zh_cn.lang
+c0f513ae94 2022-02-12 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+39ef60616e 2022-02-12 Update zh_cn.lang
+f60d458e15 2022-02-12 Update zh_cn.lang
+8af16f1184 2022-02-10 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+3ce5ae1eae 2022-02-10 Update zh_cn.lang
+b28147b79b 2022-02-10 Revert "古代咒法"
+4823e1e7a6 2022-02-10 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+ac5d656c6c 2022-02-10 Update zh_cn.lang
+5f3d0925be 2022-02-10 fin
+a28a1c25a0 2022-02-10 asc fin
+74942204dc 2022-02-06 zettai magic
+3b18a8b65d 2022-02-05 Update zh_cn.lang
+46e571f755 2022-02-05 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+23778db73f 2022-02-05 Update zh_cn.lang
+f70b76bb3d 2022-02-03 advsolars
+b87f73174e 2022-02-03 Update zh_cn.lang
+4ea285f08a 2022-02-03 Update zh_cn.lang
+9223d7f1c2 2022-02-01 Update zh_cn.lang
+b97f78ab8c 2022-02-01 Update zh_cn.lang
+23e35c8d44 2022-02-01 Update zh_cn.lang
+08b90eedc6 2022-01-22 edit
+c1fe9b9380 2022-01-22 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+fcab462f1e 2022-01-22 hmm
+ea95106cf0 2022-01-20 facade
+43f28cb76c 2022-01-17 elemental not expansion
+2b419c2fe2 2022-01-17 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+5d7ca95f32 2022-01-17 Update zh_cn.lang
+e4c4d40337 2022-01-16 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+0d36719f17 2022-01-16 cutter no plate
+b7b97abb8e 2022-01-14 gtce upd
+9a1fcd6426 2022-01-14 bq fixes
+499d87ef51 2022-01-13 dimtrc
+2a513b6c0c 2022-01-12 text not key
+18820d457e 2022-01-11 pakauto remake
+50108f634c 2022-01-10 sog remastered & fix
+cc3272be19 2022-01-10 ggclt fix
+7f44a711ca 2022-01-10 autoauto
+9a5c85ee74 2022-01-04 reliquary remaster
+161ccaa787 2022-01-02 uench-battle fix
+8d8cfbc81c 2022-01-02 uench-utils & fix
+8dd4c4f98b 2022-01-02 uench-battle & fix
+4c5e3f3297 2022-01-02 uench-b
+f31c6a6022 2022-01-02 edit
+47a540d7a3 2022-01-02 uench upd
+8e91e784e1 2022-01-01 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+065b6e34f7 2022-01-01 staff no power
+a230dce666 2021-12-31 extraterrestrial
+90a81f8650 2021-12-31 de-of
+5cff9c3653 2021-12-29 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+66a74efe03 2021-12-29 smart smart
+e990bcf108 2021-12-26 toolcomp
+33d76e00b7 2021-12-25 voiding not emptying
+184f89ba7d 2021-12-25 STOP MAKING NONSENSE FUCKING COMMITS
+38d18ca7aa 2021-12-25 vacuum dat vacuum
+1c23797536 2021-12-23 gtce edit
+ac6e100c35 2021-12-22 heh
+b51f96f8fa 2021-12-20 pulse vibra stuff ii
+98e59d5ab2 2021-12-20 pulse vibra stuff
+cc72d58ea2 2021-12-20 ar edit
+1ba721fc79 2021-12-19 endervoir
+aed4f599a8 2021-12-18 jet jet
+a4528c9a1d 2021-12-18 sj2 edit
+c796828c9a 2021-12-18 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+fedb80ac17 2021-12-18 ceu upd
+7087cfcd89 2021-12-17 we dont need no desx thx
+d3d3378479 2021-12-16 Update zh_cn.lang
+042d961cad 2021-12-16 edit
+7da7416d44 2021-12-16 edit
+6fc5046013 2021-12-14 controller not manager
+9872088cc3 2021-12-14 Update zh_cn.lang
+ff78174b49 2021-12-13 hooked edit
+c54b9d3bc3 2021-12-13 pressurized. high? probly
+3283654a29 2021-12-12 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+a3af446d72 2021-12-12 hammer is hammer
+d9044d0c0a 2021-12-12 eb remake
+55dfebbaac 2021-12-12 mf of d
+4b033dd5e5 2021-12-11 framing table
+8eb6341883 2021-12-11 claim
+6360b40427 2021-12-10 end steel
+2e9ef3dde6 2021-11-29 skyorchards edit
+59c3840606 2021-11-28 smr
+8b2d11926b 2021-11-25 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+d053ad5839 2021-11-25 rcm
+1f0b36365c 2021-11-25 revert
+3bea4987f2 2021-11-25 oxidized
+526b61207a 2021-11-25 ncl
+072eeb47fa 2021-11-22 gfo fix
+e46449c956 2021-11-21 gfo done
+ea3033496c 2021-11-21 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+aeeac40593 2021-11-21 chum fix
+5e6a8f0175 2021-11-21 casings and hulls
+2494574710 2021-11-21 ggclt chace up 1
+f6d0b355e6 2021-11-21 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+96a3ed52d1 2021-11-21 bbaub fix
+5b27b53622 2021-11-21 gfo wip 3
+11fc463e52 2021-11-21 ggclt edit
+b873a3873f 2021-11-21 gtce edit
+58b19c29d4 2021-11-21 tesseract 12 16
+0fb15b71a5 2021-11-20 gfo wip 2
+462f6ad0b7 2021-11-20 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+ca3b99d64d 2021-11-20 fuck off ggclt ofc go brrr
+6c4ce84edf 2021-11-20 gfo wip1
+c368155f2c 2021-11-19 mi edit
+f484b10cf6 2021-11-18 edit mi
+2ba3a4c607 2021-11-18 fix mi
+e2569a2b19 2021-11-18 MI upd
+035f7fcef5 2021-11-17 lifts
+64c9276213 2021-11-13 man
+8eae474a06 2021-11-13 mi upd
+78fc3edca2 2021-11-06 thermal patch patchouli
+39d43eb03f 2021-10-30 improved-stations
+0541666376 2021-10-30 tf is that
+bb123903b9 2021-10-30 fxied&spiced no judging
+65fcec19b6 2021-10-25 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
+0c386208c8 2021-10-25 c a&t
+23c93af097 2021-10-08 scalingh fix
+f5e0aeca86 2021-10-07 mtc
+c6fa1ac6b6 2021-09-21 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+ef70888b12 2021-09-21 w'ench upd 117 frdly
+82d10d6341 2021-09-21 uniench edit
+e448ed528a 2021-09-21 uniench
+0b849a11d6 2021-09-14 sshops
+a791e449c7 2021-09-14 mctcg
+43827e0332 2021-08-18 tf edit
+9ba1aaa394 2021-08-18 cofhcore upd
+c1da887077 2021-08-18 tf upd
+687bdac241 2021-07-27 un upd
+e2de973f80 2021-07-21 extcaves
+9fb9845ee7 2021-07-21 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+90b0e34a2b 2021-07-21 cnc bp upd
+f11017b9a2 2021-07-16 ewt
+93940cb67e 2021-07-15 tic3 upd
+d1ecf7dcbe 2021-07-15 inventorio enus
+e66c2b4dc7 2021-07-15 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+a393acb868 2021-07-15 fuck the spider
+cdfa09c466 2021-07-12 weapon throw | tetra edit
+4372486cf9 2021-07-11 rench
+039dc26354 2021-07-11 cwt upd
+ef1831dfed 2021-07-09 cwt | gt fix
+2d99d5da05 2021-07-08 cench upd
+99a3cbcc98 2021-07-07 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+e1a17b5647 2021-07-07 nnow
+6b47d4029b 2021-07-07 waystones upd
+6c22ac3791 2021-07-07 cradd edit
+d854704c15 2021-07-07 xpcag
+375f7c917f 2021-07-07 sseason
+d2c3a21324 2021-07-07 mvt edit n fix
+adf3269b48 2021-07-07 epaxel
+c9efc82ff4 2021-07-07 uqua edit
+02ec8e24f2 2021-07-07 coldench2
+487360a587 2021-07-06 coldbd
+c6f5ee7aa4 2021-07-06 camera u/f
+a86b65973e 2021-07-06 lumi
+3b29acf017 2021-07-06 parcels
+c19dfc3eaf 2021-07-06 mmirror
+31c8ab68fa 2021-07-06 csteel
+8bf80eface 2021-07-05 mek edit
+932238012d 2021-07-04 indrev
+acccf42b3c 2021-07-04 MODERN INDUSTRIALIZATION
+c9bd20118b 2021-07-03 fuck the space ugly as fuck
+2e8a0e6b53 2021-07-03 kibe
+92fee0a3e0 2021-07-03 IF its L147 miserable
+298d885698 2021-07-03 IF its L141
+96c98d52bd 2021-07-03 sfr
+373057cbbb 2021-07-03 alanc
+cb2b94d549 2021-07-03 dcoal
+d09a2d4902 2021-07-03 trslimes
+a20336330f 2021-07-03 egen
+5cafe708a4 2021-07-03 《My poor lil Packages》
+987fc7351e 2021-07-03 dcoins f ts weird
+63dcbfe359 2021-07-03 morett
+65c6e390cc 2021-07-03 exsto
+db6e7b7025 2021-07-03 cimtb
+1084f50b0e 2021-07-03 ebanners
+aa0a97ad9f 2021-07-02 hhsteve
+8978497b8a 2021-07-01 nourish
+995a3c805d 2021-06-30 create adv edit | direc fix
+2df68b0e8b 2021-06-26 jaopca edit
+8722f3fb13 2021-06-26 jaopca edit
+12276ddba3 2021-06-26 mek fix
+e7179acef8 2021-06-26 urns
+2071c31941 2021-06-26 новые бочки
+634af8f635 2021-06-26 dwarf
+0e3e5206ec 2021-06-26 scythd missing Abyss II content
+a8e84e9813 2021-06-26 geode
+fb009d5ca3 2021-06-26 snpg
+e9873b1e3d 2021-06-26 omnisbp
+fcae426b92 2021-06-26 omnis
+7642a01346 2021-06-26 mmc
+a273b246a3 2021-06-25 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+d7e1cc30ab 2021-06-25 maadd ongoin fix
+ed3a793259 2021-06-23 cc116
+189e506afc 2021-06-21 dgph fi
+cdfe06babb 2021-06-21 rbees
+cc5e64c529 2021-06-21 pnc
+69e3116b39 2021-06-21 mek fix
+0c2445d2f2 2021-06-21 f
+2861ee2717 2021-06-21 industrial fucking undertaking
+dde7349a53 2021-06-21 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+42cab952e9 2021-06-21 mvlib
+d12cc02534 2021-06-20 mekgen
+36467397f7 2021-06-20 mekanism
+4c7dca7be7 2021-06-19 tic upd fuck it hurts
+2a7f8d3e59 2021-06-19 colwater
+3932db6107 2021-06-19 wchimes
+b82f903264 2021-06-19 mutil
+9520e5a132 2021-06-19 hwanted
+0a7e19a103 2021-06-19 cursery
+e2fd081bda 2021-06-19 bbank
+f98912629d 2021-06-19 thermal fix
+26ba8c270e 2021-06-19 burger fix
+8ffce2f23f 2021-06-19 burger
+c03834c590 2021-06-19 dgph
+b6b837472f 2021-06-17 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+770fc9c87a 2021-06-17 dq edit
+1c5768c675 2021-06-17 fix dml12
+c463684f7a 2021-06-16 mlife
+4c9771487d 2021-06-15 dquesting patbook
+bd9de17133 2021-06-15 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+6bbab0fc27 2021-06-15 dquesting lang
+daa9a138b7 2021-06-11 tfcs edit
+3c44b73084 2021-06-11 flife fix
+7bfa0e86cf 2021-06-11 firmalife
+b9aec3dd5d 2021-06-10 hc edit
+99f59e2463 2021-06-10 tfc edit
+646fe23ea9 2021-06-10 tfc-metallum | tfc lil edit
+4083d11f86 2021-06-09 tfc edit
+9fdb78d7a7 2021-06-09 tfc edit
+4ddd4f4b07 2021-06-09 iei fix
+e922b265f8 2021-06-09 Revert "Revert "tfctechuof""
+1366ae55f7 2021-06-09 Revert "tfctechuof"
+14b377f6f2 2021-06-09 tfctechuof
+484ffec6e3 2021-06-08 tfc edit
+b9f985f07c 2021-06-06 Update zh_cn.lang
+1907c996aa 2021-06-06 tft cf domain change & xray
+b80dc5843a 2021-06-06 fix, for the packing
+290a60fb23 2021-06-06 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+c886d7bc20 2021-06-06 tfthings upd fix
+66bee84de3 2021-06-06 fixes
+2a0752b471 2021-06-06 tfc
+b6fde0b537 2021-06-06 planttech2
+077830449c 2021-06-06 refpipes
+689528c4f0 2021-06-06 aetherworks tweak
+40ad468057 2021-06-05 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+ff46726f31 2021-06-05 tfc
+6e403db19e 2021-06-04 2 boomy boomies
+8193c8a9fe 2021-06-04 sbench upd
+2fbcca3582 2021-06-04 schmucks upd
+2050c4cf50 2021-06-04 m-vil | mcdw upd
+ef004f7179 2021-06-04 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+a1754fb2b0 2021-06-04 dml-f
+af203508de 2021-06-02 shudutils
+5f10e3a43f 2021-05-30 cdeads upd
+5cde84f4e0 2021-05-30 emergency
+1c4855c8eb 2021-05-30 cdead upd
+d916ad9043 2021-05-30 bpicker edit
+cdae3a8ef6 2021-05-30 schmucks | tiabfabric
+41e9412a5f 2021-05-29 ntrtitems
+53c95f9e00 2021-05-29 wdfench upd
+e74b850d09 2021-05-29 survive upd
+d2d0cf7d0d 2021-05-29 nmine upd
+00b1cfc363 2021-05-29 mcdw upd
+d85177b37d 2021-05-26 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+03ddb4d3d4 2021-05-26 mcdw
+aa47ea8a1d 2021-05-26 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+106c3279cd 2021-05-26 f mk2
+bc86891ced 2021-05-25 mviler fa
+9799c17c8a 2021-05-23 Update zh_cn.json
+86d8aa43ed 2021-05-23 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+ad52f6b1fd 2021-05-23 expboxes
+6b33eecd8c 2021-05-22 mfu fabric
+90d1ca0396 2021-05-20 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+5773332e4e 2021-05-20 moench fabric
+6f091e337b 2021-05-18 2 fabric mods adds/fixes
+22b8e088eb 2021-05-18 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+4e1c3195e3 2021-05-18 4 fabric mods adds/fixes
+2aab5c395e 2021-05-18 inmis
+11fad23d6e 2021-05-18 2 fabric mods
+e464e458c4 2021-05-18 5 fabric mods
+5bff04a8e9 2021-05-17 recall
+70b8250aa0 2021-05-16 enchable | fix
+bd673a14dc 2021-05-15 Update zh_cn.lang
+09904a1815 2021-05-15 fix
+a7c47672b6 2021-05-15 tic3 upd & book archive
+51f575208a 2021-05-14 Update zh_CN.lang
+979bede74a 2021-05-14 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+2f00c5361e 2021-05-14 2 112 mods
+1149027ee8 2021-05-13 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+565dce09bf 2021-05-13 w.ench upd
+5ce0506eca 2021-05-12 Update zh_cn.lang
+7e6779c401 2021-05-12 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+39931b4fcf 2021-05-12 3 112 mods
+535a82797f 2021-05-10 tic3 lang upd
+6656495225 2021-05-10 Update en_us.json
+101e0873fc 2021-05-10 udm upd
+18ecb63edd 2021-05-10 sgear upd
+94f32758bf 2021-05-09 Update zh_cn.lang
+2301081a5f 2021-05-09 Update zh_cn.lang
+30dc8dc1d4 2021-05-09 Translated using Weblate (Chinese (Simplified) (zh_cn))
+216dcc8851 2021-05-08 fix
+4a35e24a05 2021-05-07 fix
+77d6ea6203 2021-05-07 fix
+48ab6a9d84 2021-05-07 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+d290aa999a 2021-05-07 fix
+baf1f571cc 2021-05-06 ticbook may m
+0d5b7050f7 2021-05-06 ticbook may lang
+86de3b988e 2021-05-06 freading n thing
+f5fc4a2924 2021-05-06 delete unnec things n fix ftbum
+bded817a5c 2021-05-05 splane upd
+a0c5a4d494 2021-05-05 splane ptl upd
+f911cce187 2021-05-05 Update blitz.json
+1011c9a771 2021-05-05 Update integral_components.json
+c552642239 2021-05-05 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+1dcde98617 2021-05-05 Update potion_diffuser.json
+949ade0cf1 2021-05-04 tic3 lang upd
+8be42c68ad 2021-05-04 Update en_us.json
+b106fc21fb 2021-05-02 thermalpedia done
+3da5ce612c 2021-05-02 thermalpedia wip9
+da998fb698 2021-05-01 thermalpedia wip8 & fix
+f219b3f387 2021-04-30 thermalpedia wip7+
+fbcb1daf7e 2021-04-30 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+2e96600dcb 2021-04-30 thermalpedia wip7
+f3bf59e9b4 2021-04-29 thermalpedia wip6
+8fa6463b81 2021-04-29 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+441a4baaea 2021-04-29 fix cofh things
+cff3cd0d51 2021-04-29 thermalpedia wip5
+e4a62ae8fe 2021-04-28 Translated using Weblate (Chinese (Simplified) (zh_cn))
+ee6117c1ef 2021-04-28 thermalpedia wip4
+b5f8131837 2021-04-28 thermalpedia wip3
+40675b2053 2021-04-27 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+a33204ed30 2021-04-27 thermalpedia wip2
+2a6a78bbea 2021-04-27 thermalpedia wip1
+1c06e8195e 2021-04-26 one to one
+fdd0ef10ad 2021-04-26 splane pbook
+cb8264e771 2021-04-26 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+fdab0f0627 2021-04-26 waystone fix
+b8a637303f 2021-04-25 tic3 upd
+dfc724c9d2 2021-04-25 Update en_us.json
+9ba2fc31fe 2021-04-25 tic3 books upd
+84cbf511a8 2021-04-22 nmw
+60b83c8f8c 2021-04-22 sgear upd
+92b29c8c81 2021-04-22 Update en_us.json
+c69220a796 2021-04-22 nmine update
+e8e4cfe359 2021-04-22 unionlib
+d9604f1e1d 2021-04-21 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+d781be6b73 2021-04-21 #CFPA-278987066788430
+76d3a560ac 2021-04-20 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+4095466112 2021-04-20 cfood fix
+fec321aa8b 2021-04-20 cfood
+929031fe3c 2021-04-19 mjdark
+7a13d8274b 2021-04-19 tic update fix & enus book stuff
+b0dd19b11c 2021-04-18 ror
+fc53aa0222 2021-04-18 ror
+cc0e07d1f6 2021-04-18 nmine
+7c54786609 2021-04-18 tss update en done zh
+e458b1c6e6 2021-04-17 tic fix
+f12124825f 2021-04-18 tss update en done zh
+2ca72ee6d8 2021-04-17 tic fix
+6172b81c74 2021-04-16 Translated using Weblate (Chinese (Simplified) (zh_cn))
+c7b3821d60 2021-04-16 Translated using Weblate (Chinese (Simplified) (zh_cn))
+68eb57bfb1 2021-04-16 Translated using Weblate (Chinese (Simplified) (zh_cn))
+7011ae774c 2021-04-16 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+13aed29019 2021-04-16 ffench
+bf04691f41 2021-04-15 Update zh_cn.json
+dfdfe7ec39 2021-04-15 udarmy
+c1fefe0b34 2021-04-15 cf domain changed
+128350e023 2021-04-15 survive
+fcd4cab5cd 2021-04-15 fix & catalogue
+e2f78b343d 2021-04-14 cdcore and fix
+a937c38f3e 2021-04-14 cdvirus
+175f505b48 2021-04-13 dc2n update
+a7f3bcf49a 2021-04-12 book wip, but loca done
+f64dd94d2e 2021-04-12 format & fixes
+82606fc49d 2021-04-12 fix key
+4135f6277f 2021-04-12 fix key
+5bf65d5083 2021-04-12 update tic
+c962eedb30 2021-04-10 i even updated it
+42c9b0f1fe 2021-04-10 fuck it i made tic3 for you
+b0ccdda727 2021-04-09 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+065633b308 2021-04-09 update snn enus
+8ea956955d 2021-04-04 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+2db3102887 2021-04-04 wgad
+8d99cbbcfe 2021-04-03 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+f7567f73f3 2021-04-03 cptcrafting
+a73a03c2fc 2021-04-01 solving
+899deac522 2021-03-30 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+41f45589ce 2021-03-30 disench
+28ba676596 2021-03-30 sg update
+ba70ac4372 2021-03-30 Update en_us.json
+328ad2a689 2021-03-30 wards
+61e6cd11f5 2021-03-28 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+ab25100b9f 2021-03-28 r&b all night
+a83233e7a7 2021-03-28 mraforge
+c5a5a0adb0 2021-03-28 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+f944c13ced 2021-03-28 f
+1f4423a4e1 2021-03-28 dc2 fix
+0451c685f5 2021-03-27 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+7013c6fd4f 2021-03-27 dronecraft 2
+4c62b4e973 2021-03-27 dronecraft 2
+5383db6e84 2021-03-26 fix bhc
+c3a6662a1a 2021-03-26 fix vnu
+0ad4767879 2021-03-26 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+88939744f6 2021-03-26 brazier
+969a833880 2021-03-24 irons
+9feb9cc002 2021-03-23 ghook fix
+3326cd472f 2021-03-23 fix
+14551bd918 2021-03-23 modifiers
+f5ff8a6a50 2021-03-23 graphook
+de06cf0edd 2021-03-22 cofh core
+f0722d081e 2021-03-22 dothweap enus format
+bb3b7ca799 2021-03-22 sg update
+747e18f622 2021-03-22 thermal update/fix/line sync
+f2eb8da90a 2021-03-22 Update zh_cn.json
+aa3a635c67 2021-03-21 somnia
+426cc84450 2021-03-21 anoint
+ec2de8b410 2021-03-21 qdc
+7d3e6de913 2021-03-21 enchbook
+982a6e8b3a 2021-03-21 cgrap
+bba154bade 2021-03-21 sg update
+f13f8a6dfe 2021-03-21 dungear fix
+a052768fcf 2021-03-21 dungear fix
+b617af370e 2021-03-20 terrchest
+b75eef96b2 2021-03-20 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+245739a416 2021-03-20 stodra fix
+9ab2596ebe 2021-03-20 ewm update
+6eb86f5f4f 2021-03-20 enw
+2799d40d49 2021-03-20 sg update
+3e4db05e92 2021-03-20 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+704332dca2 2021-03-20 phanface
+2a80e6278f 2021-03-19 coldench update
+1503d7836a 2021-03-19 berrygood update
+5de44ab0f3 2021-03-18 configured
+b3ca85f67c 2021-03-17 finish dungear
+aac40c3a4b 2021-03-17 sleebag fix
+8fca265343 2021-03-17 coldench
+ce6aba1cd8 2021-03-17 fix
+6c91e11352 2021-03-17 dun - gear
+6671eb38fc 2021-03-17 dun - mobs
+5f8f6fab66 2021-03-17 tot
+1e39a21967 2021-03-17 pct
+3d05da5687 2021-03-17 uec
+ad7df3bf47 2021-03-17 simpback
+97cf731fb5 2021-03-17 fix
+659c9ffbad 2021-03-17 fix
+b36a71b98b 2021-03-17 ihud+
+35c1988094 2021-03-17 ptrust
+ac13103d18 2021-03-16 treasure2 update
+159df9ec5c 2021-03-15 fix
+013d516ae4 2021-03-15 ffb fix
+4ed4207371 2021-03-15 losttrinket update
+0abbbcc4eb 2021-03-15 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+db4d86877f 2021-03-15 foodenh
+482c5269e2 2021-03-14 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+fdeed961e9 2021-03-14 hfm
+0d372e1808 2021-03-13 Update zh_cn.json
+8f7b54f70d 2021-03-13 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+dfd510fc8b 2021-03-13 tombstone fix
+98c24bb429 2021-03-13 GRA
+9fe517c403 2021-03-13 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+8967aa5fec 2021-03-13 gci
+6c0d6549b4 2021-03-12 Translated using Weblate (Chinese (Simplified) (zh_cn))
+32dacfa0b2 2021-03-12 Translated using Weblate (Chinese (Simplified) (zh_cn))
+694d37766d 2021-03-12 Translated using Weblate (Chinese (Simplified) (zh_cn))
+0967b4ce97 2021-03-12 random fixes
+5a9a506e3d 2021-03-12 tidy eid
+6251ccb4e2 2021-03-11 Translated using Weblate (Chinese (Simplified) (zh_cn))
+b2c0af26ef 2021-03-11 Translated using Weblate (Chinese (Simplified) (zh_cn))
+a5cf86d919 2021-03-10 sg update
+b2fce3aaa7 2021-03-10 tea kettle
+82727e19d1 2021-03-10 fix
+4b998126ba 2021-03-10 WDA
+cbb278c45e 2021-03-09 Translated using Weblate (Chinese (Simplified) (zh_cn))
+d464a7c577 2021-03-09 Translated using Weblate (Chinese (Simplified) (zh_cn))
+33ad761434 2021-03-09 Translated using Weblate (Chinese (Simplified) (zh_cn))
+bb5b80a083 2021-03-09 Translated using Weblate (Chinese (Simplified) (zh_cn))
+86e862960e 2021-03-09 Translated using Weblate (Chinese (Simplified) (zh_cn))
+7e2622edf1 2021-03-09 Translated using Weblate (Chinese (Simplified) (zh_cn))
+f9cd54d81c 2021-03-09 Translated using Weblate (Chinese (Simplified) (zh_cn))
+d4150986ec 2021-03-09 Translated using Weblate (Chinese (Simplified) (zh_cn))
+7ed89c3c1d 2021-03-09 lil sh fix
+cd829b8203 2021-03-09 MPD update
+0a67b0c7fa 2021-03-09 fix
+b5aec4e3b8 2021-03-09 dtm
+79f9df9c2e 2021-03-09 blueberry
+f5e3d9cfc9 2021-03-08 fix drctr
+ca3dbf7949 2021-03-08 sg update
+7fe90fa3bb 2021-03-08 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+7a2a1d2753 2021-03-08 backstab
+dd52e3c870 2021-03-07 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+52573c006f 2021-03-07 tiered
+2a4b2bd51d 2021-03-06 lil fix
+94c5efa656 2021-03-06 coinsje
+ae2d3fd3d2 2021-03-05 lil fix
+5c85fdaf6f 2021-03-05 savage&ravage addage&removage
+9d2a01a4d8 2021-03-04 extraspace
+314788fae5 2021-03-04 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+bedcbd1b0c 2021-03-04 minefactory
+70de0b0e4c 2021-03-03 crafting dead
+d7fce282a1 2021-03-03 terraforged update
+ac05e1ccdc 2021-03-03 UDM
+20af59df24 2021-03-02 lock on
+138df7378d 2021-03-02 adventure pack
+e56ec72f88 2021-03-01 efm update
+f979005de4 2021-03-01 berry good
+57d050705e 2021-03-01 personality
+aa6534b12f 2021-03-01 sg update
+dc1897f757 2021-03-01 travelbag update
+91fa78a88a 2021-02-28 scannable
+308d6788c4 2021-02-27 pipez update
+541a9829db 2021-02-27 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+fdf41a28a2 2021-02-27 fix CAR
+43392bf9d1 2021-02-26 WEnch update
+18df43c8ff 2021-02-26 simpleores fix
+0d4fa3d2e5 2021-02-25 tlc wtf
+62e2c42c4d 2021-02-25 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+6abd67a91b 2021-02-25 sgear update
+c6c64bf2f4 2021-02-24 pipez
+fba9c946e4 2021-02-24 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+5e78c17120 2021-02-24 fix
+32677491fc 2021-02-24 cvm update
+24384d0847 2021-02-24 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+73dfd5bc32 2021-02-24 ironfurnaces update
+e0e2039f65 2021-02-23 travel bag update
+ca1c5593e5 2021-02-23 sg missing key
+db4224ccba 2021-02-22 update ssn enus | extlights
+1352d00f2a 2021-02-22 epic fight
+2907890299 2021-02-22 hc revival
+88b1dae780 2021-02-21 surface tension
+8904a27c5f 2021-02-20 repurposed structures
+dde96e23ee 2021-02-20 EWM
+2aaf27d385 2021-02-20 fix
+f0edeb0805 2021-02-20 sgear update
+2cc58ad254 2021-02-19 travel bag
+1b0b518464 2021-02-19 dungeon+
+5326b06005 2021-02-19 SGA update
+02f96ab2a9 2021-02-19 d-battletower
+4b97db799b 2021-02-19 sgear update
+19c5e2c2d1 2021-02-18 diet
+0c742bcaf3 2021-02-18 gns fix
+23a1657836 2021-02-17 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+f96d6f58b7 2021-02-17 fix
+a012f8cf3b 2021-02-17 SH fix
+2654162976 2021-02-17 silents mechanisms/scaling health
+1ed612829c 2021-02-17 SMD
+095d33b76d 2021-02-17 zots only silver
+47db527e9e 2021-02-16 silentgear
+7431d78713 2021-02-15 cgm
+8cce4b9318 2021-02-15 solpotato fix
+3277095d43 2021-02-15 solpotato fix
+db8c382601 2021-02-15 MPD update
+e07c8a426a 2021-02-15 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+1a51569a5b 2021-02-15 solpotato
+b2a498d239 2021-02-14 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+72e03b5317 2021-02-14 terraforged update
+ce14ab15ff 2021-02-13 fix
+5c763e0e02 2021-02-13 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+449db40d56 2021-02-13 unify
+abdddeca88 2021-02-12 wonderful ench
+1009cce079 2021-02-12 enchdesc update
+3bf0d53c07 2021-02-12 MPD lil fix
+22156cf8b4 2021-02-12 MPD
+a3a11ae734 2021-02-12 tiab
+839ae54dd3 2021-02-12 gns fix
+d9d13c009a 2021-02-11 GNS
+cb4d028c43 2021-02-11 Savage&Ravage Movage&Optimage&Amplifage
+1b96fa66ec 2021-02-11 endergetic subtitle fix
+2ad2287203 2021-02-11 repair chests
+fb1a6e9a3f 2021-02-11 netherite nuggets
+15b1132f9b 2021-02-11 cofhcore update
+60f48d14cf 2021-02-11 YBP
+88d760eec6 2021-02-10 fix
+b7b6b834e3 2021-02-10 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+f0f7f8b312 2021-02-10 iron furnaces optimized
+1c9d085f89 2021-02-09 serene seasons optimized
+d42249fa22 2021-02-09 fix
+c26375ad2f 2021-02-09 shh
+067b9b9c7e 2021-02-09 notreepunching standardized
+8c88142c03 2021-02-09 valheisia structures
+ced43e1a9c 2021-02-09 simpleplanes update
+0a7840c797 2021-02-09 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+aa3fccbda8 2021-02-09 fusion update
+2c7038cab7 2021-02-07 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+658749b8a0 2021-02-07 upgraded upgraded netherite
+c34c680033 2021-02-07 wormhole fix
+15d949189f 2021-02-07 terraforged update
+bfdc3c2365 2021-02-06 simplybackpacks
+841bb9860a 2021-02-06 wormhole
+b5de1dfc13 2021-02-06 linkingbooks
+d4cf1277ba 2021-02-06 linkingbooks
+9566292cab 2021-02-06 unique crops update
+6ac57371f2 2021-02-06 netherrocks update
+733d5fa148 2021-02-06 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+b756659fce 2021-02-06 big brain
+035acb0f2e 2021-02-05 endergetic
+c13996400e 2021-02-05 craftingcraft
+20804c8522 2021-02-05 guard villagers
+715be4bfa5 2021-02-04 guard villagers
+18b857422e 2021-02-04 torcherino
+a7d7452240 2021-02-04 fusion
+817cf09bde 2021-02-04 simpleores
+87f4ea604b 2021-02-04 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+bb6e112ba0 2021-02-04 netherrocks
+6a3a497d4f 2021-02-04 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+c033b04879 2021-02-04 lost trinkets
+20efb04f5c 2021-02-03 add & remove
+5469a02ac1 2021-02-03 Translated using Weblate (Chinese (Simplified) (zh_cn))
+2a0768de2b 2021-02-03 Translated using Weblate (Chinese (Simplified) (zh_cn))
+7861b2886d 2021-02-02 wyrmroost
+d48e1f9fd4 2021-02-02 Merge branch '1.16' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into 1.16
+3deead2339 2021-02-02 upgraded netherite
+1f205483ea 2021-02-01 Translated using Weblate (Chinese (Simplified) (zh_cn))
+c163b9a19e 2021-02-01 Translated using Weblate (Chinese (Simplified) (zh_cn))
+9fd728ea5c 2021-02-01 Translated using Weblate (Chinese (Simplified) (zh_cn))
+e8e6fc6a32 2021-02-01 Translated using Weblate (Chinese (Simplified) (zh_cn))
+c70847478c 2021-02-01 Translated using Weblate (Chinese (Simplified) (zh_cn))
+eb5cee0f8e 2021-02-01 Translated using Weblate (Chinese (Simplified) (zh_cn))
+dc34dd2f1f 2021-02-01 Translated using Weblate (Chinese (Simplified) (zh_cn))
+573ff50d7a 2021-02-01 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+3b1c0f755a 2021-02-01 Update zh_cn.lang
+119a2c0b0c 2021-01-31 unique crops utd
+2bfcc1954a 2021-01-31 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+49dffbb183 2021-01-31 unique crops
+493634f271 2021-01-30 temp
+b9ec879387 2021-01-30 Revert "temp"
+f8f953e402 2021-01-30 temp
+9abde6ca48 2021-01-28 Translated using Weblate (Chinese (Simplified) (zh_cn))
+93adc3a917 2021-01-28 Translated using Weblate (Chinese (Simplified) (zh_cn))
+d18c002999 2021-01-28 Translated using Weblate (Chinese (Simplified) (zh_cn))
+d7d14dd3c2 2021-01-28 Translated using Weblate (Chinese (Simplified) (zh_cn))
+54d939d2da 2021-01-27 wtf r u doin bot
+eb6eef6e76 2021-01-27 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+795587b8c7 2021-01-27 chambers
+914aa3b576 2021-01-27 GTCE update
+279b9f0e49 2021-01-27 Translated using Weblate (Chinese (Simplified) (zh_cn))
+301fc77217 2021-01-27 Translated using Weblate (Chinese (Simplified) (zh_cn))
+161d22b263 2021-01-27 Translated using Weblate (Chinese (Simplified) (zh_cn))
+307d50e69f 2021-01-27 Translated using Weblate (Chinese (Simplified) (zh_cn))
+cf6b72c501 2021-01-27 Translated using Weblate (Chinese (Simplified) (zh_cn))
+6f36f75b00 2021-01-27 Translated using Weblate (Chinese (Simplified) (zh_cn))
+8a3c1894be 2021-01-27 Translated using Weblate (Chinese (Simplified) (zh_cn))
+55d657f70c 2021-01-27 Translated using Weblate (Chinese (Simplified) (zh_cn))
+cc4fe70ac7 2021-01-26 Update zh_cn.json
+d408ae96f0 2021-01-26 terraforged update
+590cca284e 2021-01-26 terraforged
+09d2669a86 2021-01-25 ebwiz handbook enus
+72fe3ee090 2021-01-25 ebwizardry enus
+ace5e1cad0 2021-01-23 Translated using Weblate (Chinese (Simplified) (zh_cn))
+8488e516f2 2021-01-23 Translated using Weblate (Chinese (Simplified) (zh_cn))
+6f62a97e38 2021-01-23 Translated using Weblate (Chinese (Simplified) (zh_cn))
+b28f768886 2021-01-23 Translated using Weblate (Chinese (Simplified) (zh_cn))
+2adb8b1835 2021-01-23 Translated using Weblate (Chinese (Simplified) (zh_cn))
+a8646eba87 2021-01-23 Update zh_cn.lang
+0dd3780274 2021-01-22 Update zh_cn.lang
+79d0c91334 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+6f7c565cba 2021-01-22 Update zh_cn.lang
+1e0ba15135 2021-01-22 fix
+202ff5bc08 2021-01-22 Update zh_cn.json
+7911d81d5b 2021-01-22 Update zh_cn.json
+8a46e5fddc 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+cf02a39f1b 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+accd3620d2 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+c6f3d02a12 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+fcefc6ff6d 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+65f607fdb8 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+21c7dc4ab3 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+3baef2671b 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+8b075615ac 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+b4e6f8e508 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+0e92c48ff3 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+8aa7f437bb 2021-01-22 Translated using Weblate (Chinese (Simplified) (zh_cn))
+268b3cf060 2021-01-21 giacomos foundry
+b3d3230734 2021-01-21 fix
+44888ec44f 2021-01-21 dumpster diving
+0371015ad6 2021-01-21 漂流瓶规整
+6bf5f6c2db 2021-01-21 Translated using Weblate (Chinese (Simplified) (zh_cn))
+35bdcc0729 2021-01-21 Translated using Weblate (Chinese (Simplified) (zh_cn))
+a9dd0ace49 2021-01-21 Translated using Weblate (Chinese (Simplified) (zh_cn))
+1422b32db3 2021-01-21 Translated using Weblate (Chinese (Simplified) (zh_cn))
+55b0999f4b 2021-01-21 Translated using Weblate (Chinese (Simplified) (zh_cn))
+8f8308e7ae 2021-01-21 Translated using Weblate (Chinese (Simplified) (zh_cn))
+980e100172 2021-01-21 Translated using Weblate (Chinese (Simplified) (zh_cn))
+169898fe0f 2021-01-21 Translated using Weblate (Chinese (Simplified) (zh_cn))
+6f3b31aa65 2021-01-21 Translated using Weblate (Chinese (Simplified) (zh_cn))
+a60119a6f9 2021-01-21 Translated using Weblate (Chinese (Simplified) (zh_cn))
+8fe107be4d 2021-01-21 Translated using Weblate (Chinese (Simplified) (zh_cn))
+6f01db795d 2021-01-21 Translated using Weblate (Chinese (Simplified) (zh_cn))
+303b0c4995 2021-01-20 fix
+575acc3df1 2021-01-20 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+8fcab8186f 2021-01-20 CQR
+7e341eec14 2021-01-19 Update zh_cn.lang
+3f82a165e7 2021-01-19 Update zh_cn.lang
+803be8676b 2021-01-19 Update zh_cn.lang
+9469bb8429 2021-01-19 Update zh_cn.lang
+614adac9c7 2021-01-19 Translated using Weblate (Chinese (Simplified) (zh_cn))
+c28365cc2c 2021-01-19 Translated using Weblate (Chinese (Simplified) (zh_cn))
+ae5696291d 2021-01-19 Translated using Weblate (Chinese (Simplified) (zh_cn))
+d5df8eba2f 2021-01-19 Translated using Weblate (Chinese (Simplified) (zh_cn))
+b8987d226e 2021-01-19 pizzacraft update
+9e88f8172c 2021-01-19 thermal series update
+16ceab92fc 2021-01-18 Update zh_cn.json
+7dac3db28f 2021-01-18 Revert "Revert "change origin ref. from cfpa 1.12""
+ecaaead538 2021-01-18 Revert "change origin ref. from cfpa 1.12"
+4627ea7022 2021-01-16 ex sartagine
+983a5cf766 2021-01-15 Translated using Weblate (Chinese (Simplified) (zh_cn))
+62d256365f 2021-01-15 bays mettle opdait
+d11b829ccd 2021-01-15 bays mettle opdait
+56f49d6a29 2021-01-15 Translated using Weblate (Chinese (Simplified) (zh_cn))
+f1224d7a84 2021-01-15 Translated using Weblate (Chinese (Simplified) (zh_cn))
+277867e6ba 2021-01-15 Translated using Weblate (Chinese (Simplified) (zh_cn))
+8d99d3a77b 2021-01-15 Translated using Weblate (Chinese (Simplified) (zh_cn))
+d750432155 2021-01-15 Translated using Weblate (Chinese (Simplified) (zh_cn))
+e04b93bf18 2021-01-15 Translated using Weblate (Chinese (Simplified) (zh_cn))
+0af45dc42b 2021-01-15 Translated using Weblate (Chinese (Simplified) (zh_cn))
+f6c5736486 2021-01-15 Translated using Weblate (Chinese (Simplified) (zh_cn))
+79f6e50b95 2021-01-15 Translated using Weblate (Chinese (Simplified) (zh_cn))
+17ccefafab 2021-01-15 Translated using Weblate (Chinese (Simplified) (zh_cn))
+9dc7d7c2b9 2021-01-14 Update zh_cn.json
+fa88ec45e1 2021-01-14 Revert "resolving conflict"
+a0da31fb95 2021-01-14 resolving conflict
+3767038069 2021-01-14 Update zh_cn.json
+7c0f99a074 2021-01-11 fix
+edb191ab4f 2021-01-10 Translated using Weblate (Chinese (Simplified) (zh_cn))
+6afc4d5bdf 2021-01-10 Translated using Weblate (Chinese (Simplified) (zh_cn))
+57300611be 2021-01-10 adminshop
+66b88b1390 2021-01-10 Translated using Weblate (Chinese (Simplified) (zh_cn))
+cafeb726cc 2021-01-10 update soot
+04dcac44f3 2021-01-10 gregic new stuff
+bbede2a330 2021-01-09 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+a35cd4fd64 2021-01-09 Update zh_cn.lang
+70b52cb871 2021-01-09 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+05ee7e0eb1 2021-01-09 update EmbersR
+b3e73953a1 2021-01-09 update OpenPrinter
+4031e2cce1 2021-01-08 Translated using Weblate (Chinese (Simplified) (zh_cn))
+23ee482aaf 2021-01-08 fix
+58657f6553 2021-01-08 Translated using Weblate (Chinese (Simplified) (zh_cn))
+b79cfe44c2 2021-01-08 Translated using Weblate (Chinese (Simplified) (zh_cn))
+8d5337a3dc 2021-01-08 Translated using Weblate (Chinese (Simplified) (zh_cn))
+3347ed4708 2021-01-08 Translated using Weblate (Chinese (Simplified) (zh_cn))
+7832e0ee17 2021-01-08 Translated using Weblate (Chinese (Simplified) (zh_cn))
+49afdd5513 2021-01-08 Translated using Weblate (Chinese (Simplified) (zh_cn))
+8d6320ca0f 2021-01-08 Translated using Weblate (Chinese (Simplified) (zh_cn))
+a757aaaeee 2021-01-08 Translated using Weblate (Chinese (Simplified) (zh_cn))
+124517a297 2021-01-08 Translated using Weblate (Chinese (Simplified) (zh_cn))
+c1ddbb869e 2021-01-08 Translated using Weblate (Chinese (Simplified) (zh_cn))
+8863d40844 2021-01-07 Translated using Weblate (Chinese (Simplified) (zh_cn))
+ea88e459c6 2021-01-07 Translated using Weblate (Chinese (Simplified) (zh_cn))
+4eda3bd730 2021-01-08 Update zh_cn.lang
+141f44e116 2021-01-07 Update zh_cn.lang
+d76e83d1e9 2021-01-07 fix
+cf281148bc 2021-01-06 Translated using Weblate (Chinese (Simplified) (zh_cn))
+ade04add8c 2021-01-04 meaningless fixes
+ff0ff2174d 2021-01-04 fix gtce
+58091c6c79 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+25f33fb7ec 2021-01-04 Update zh_cn.lang
+047a6d023a 2021-01-04 Update zh_cn.lang
+ab5c84a84f 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+59a717988e 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+d7b5d6a258 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+5d80ea4363 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+12939ffc05 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+8732ef5a4b 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+5c6f0ea6fe 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+4fa751f45d 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+13a97f16d0 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+c6042bb846 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+6a13189541 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+9ef8a77225 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+87e548f08a 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+522812e9b3 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+ec62561419 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+672a8d7832 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+3376895cf9 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+f377f50fe7 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+ab343fbc21 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+9a8055ab1c 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+fd6afac79e 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+c6ad650fda 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+c607f6f2a3 2021-01-04 Translated using Weblate (Chinese (Simplified) (zh_cn))
+43ebd9440f 2021-01-04 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+1fa64086df 2021-01-04 update mw enus
+1944d4309d 2021-01-02 trashcan update
+7792d3a7b7 2021-01-02 mw fix
+909c7da999 2021-01-02 new stuff
+a42e3c0546 2021-01-01 Update zh_cn.lang
+a73916c625 2021-01-01 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+d77c4a75ba 2021-01-01 gregic
+dd4558ee87 2020-12-30 Translated using Weblate (Chinese (Simplified) (zh_cn))
+cccbbd19a3 2020-12-29 Translated using Weblate (Chinese (Simplified) (zh_cn))
+4e496716de 2020-12-29 Translated using Weblate (Chinese (Simplified) (zh_cn))
+ea5938676d 2020-12-29 Translated using Weblate (Chinese (Simplified) (zh_cn))
+56fc417faf 2020-12-29 MW enus lang update
+515ac77944 2020-12-29 Gregic new stuff
+62afc7f124 2020-12-28 gregic new stuff
+17e105b92a 2020-12-26 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+aea943f9a5 2020-12-26 GTCE new lines
+815fb7f5c4 2020-12-26 Update zh_cn.lang
+fb94f46975 2020-12-25 Translated using Weblate (Chinese (Simplified) (zh_cn))
+5f494b928d 2020-12-25 Revert "Translated using Weblate (Chinese (Simplified) (zh_cn))"
+932f991046 2020-12-25 Translated using Weblate (Chinese (Simplified) (zh_cn))
+525d7577c0 2020-12-25 Translated using Weblate (Chinese (Simplified) (zh_cn))
+03e83596fc 2020-12-25 Translated using Weblate (Chinese (Simplified) (zh_cn))
+271c63b894 2020-12-25 Translated using Weblate (Chinese (Simplified) (zh_cn))
+1f8a7c5dcc 2020-12-25 Translated using Weblate (Chinese (Simplified) (zh_cn))
+91283e654f 2020-12-25 Translated using Weblate (Chinese (Simplified) (zh_cn))
+9ae27d5090 2020-12-25 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+008d7f70ef 2020-12-25 DE update
+30daf58fc8 2020-12-22 SCP官方文档为“盐酸”
+464ab07476 2020-12-22 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+15d8f0846a 2020-12-22 SCP:Lockdown - lang修整与更新
+2059757862 2020-12-21 ae2fc汉化更新
+dbb601f1f3 2020-12-20 Update zh_cn.json
+6c7f3bc081 2020-12-17 Close #898
+b946d0fadb 2020-12-17 Translated using Weblate (Chinese (Simplified))
+d11d5ade80 2020-12-17 covers everywhere
+c77d7a4d36 2020-12-14 ae2fc更新
+53e1784f98 2020-12-14 戏都给你加完了😅
+f66cf59f9d 2020-12-14 enderio
+6b66275c83 2020-12-14 Update zh_cn.lang
+27fa8473e6 2020-12-13 subpocket
+c96ba732cd 2020-12-12 wiki zoomer
+2127015f65 2020-12-12 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+eb078ca76e 2020-12-12 dracadd fix
+114f897d00 2020-12-12 Translated using Weblate (Chinese (Simplified))
+899e485290 2020-12-12 Translated using Weblate (Chinese (Simplified))
+9a97ddcbe6 2020-12-12 Translated using Weblate (Chinese (Simplified))
+97a3dd510f 2020-12-12 Translated using Weblate (Chinese (Simplified))
+ef62c2fcd5 2020-12-12 Translated using Weblate (Chinese (Simplified))
+d2f30037fe 2020-12-12 topaddons整理
+f0f8794ee7 2020-12-12 uniq
+6dc5fea8d5 2020-12-12 fluidict
+fbed0cef30 2020-12-11 colossalchest fix
+1bcbca2749 2020-12-11 colossalchest
+8be6a8304d 2020-12-11 全角标点
+9890cd6db3 2020-12-11 furnace overhaul
+c4692b1ae4 2020-12-11 Entangled new lines
+e4008f5cfd 2020-12-10 Update zh_cn.lang
+e58bf17007 2020-12-10 Update zh_cn.lang
+327cd2477b 2020-12-08 Translated using Weblate (Chinese (Simplified))
+deadb59fe0 2020-12-09 Translated using Weblate (Chinese (Simplified))
+c967bb1fe2 2020-12-08 Translated using Weblate (Chinese (Simplified))
+ab7db84461 2020-12-08 Translated using Weblate (Chinese (Simplified))
+9c5c6c443d 2020-12-08 Translated using Weblate (Chinese (Simplified))
+cf4ecab416 2020-12-08 Translated using Weblate (Chinese (Simplified))
+11f780c7c3 2020-12-08 Translated using Weblate (Chinese (Simplified))
+b53c8ffbd9 2020-12-04 trashcans
+ab45cb9ae6 2020-12-04 Update zh_cn.lang
+db9f019176 2020-12-04 universal remote
+272f0fca82 2020-12-03 Miner Golem
+9ac375dd86 2020-12-02 More Avaritia修正
+ef94202721 2020-11-27 GTCE new lines
+80fe6285bc 2020-11-27 Update zh_cn.lang
+8d1855b8b7 2020-11-27 Merge branch 'main' of https://github.com/CFPAOrg/Minecraft-Mod-Language-Package into main
+fe7de8e5ce 2020-11-27 Update zh_cn.lang
+58e7bab649 2020-11-26 Translated using Weblate (Chinese (Simplified))
+dfb3ec66d3 2020-11-26 Translated using Weblate (Chinese (Simplified))
+da64bd5489 2020-11-26 Translated using Weblate (Chinese (Simplified))
+512bee4cec 2020-11-25 Thermal Fix
+2b8fc42cf0 2020-11-24 Update zh_cn.lang
+7e7a36c8f5 2020-10-11 Update zh_cn.lang
+348a914be9 2020-11-22 more GTCE
+bbb5b5b765 2020-11-19 热力系列
+63e918b315 2020-11-18 Another lil GTCE fix
+d825296420 2020-11-18 Lil GTCE fix
+cb9af6b150 2020-11-17 Update zh_cn.lang
+1d7417a94b 2020-11-17 Update zh_cn.lang
+374c3410a2 2020-11-17 Update zh_cn.lang
+607050aef5 2020-11-16 Update zh_cn.lang
+8d59e4f7f6 2020-11-16 Update zh_cn.lang
+fc7e88d4bd 2020-11-13 Element Update
+a174337d0c 2020-11-13 Tesseract及Mechanics汉化
+46e89454de 2020-11-12 Update zh_cn.lang
+c04873eb8c 2020-11-07 小修热力膨胀
+cd93e4b6a0 2020-11-06 GTCE副产物JEI支持
+a186eb4943 2020-11-04 同步官中
+b4e4e6897c 2020-11-02 Update zh_cn.lang
+8f137833ed 2020-11-02 Update zh_cn.lang
+3f159a4134 2020-10-17 Update zh_cn.lang
+cc23a48c6d 2020-10-16 Update zh_cn.lang
+ca71f95b2a 2020-10-09 MapFrontiers汉化
+decf3e7c12 2020-10-05 可怕的箱子汉化
+b280681c12 2020-09-21 套
+1584aa8f62 2020-09-21 fixing
+290b2de9cb 2020-09-21 fixing
+578effea07 2020-09-21 套一层
+0fbaa8a693 2020-09-21 套一层
+c47cdf52ef 2020-09-21 修复谬误
+5bbb3a030d 2020-09-21 hammerandvil汉化
+588719fbb3 2020-07-28 Update zh_cn.lang
+4bcc479603 2020-07-18 Update zh_cn.lang
+274e834009 2020-07-18 Update zh_cn.lang
+2ea93cdeb7 2020-07-18 修复scalinghealth问题
+3b85762f94 2020-07-18 Update zh_cn.lang
+7851de8893 2020-07-18 Create zh_cn.lang
+4c82f182c6 2020-07-18 Create zh_cn.lang
+02d020da13 2020-07-18 Update zh_cn.lang
+81dfd0ca8c 2020-07-17 starterkit翻译
+a7f9b8a181 2020-07-16 Create zh_cn.lang
+4859a7758a 2020-07-16 Create zh_cn.lang
+7073bad85b 2020-07-16 Create zh_cn.lang
+ae084ad9f2 2020-07-08 enchantingfever翻译
+6bd41cc805 2020-07-07 Update zh_cn.lang
+13ce78e330 2020-07-07 Endorium消歧义
+c854ce6a3d 2020-07-07 toroquest翻译
+131fcf5e9d 2020-07-04 修正
+1c87c75913 2020-06-30 添加EnderMail翻译
+7bcdbe76e9 2020-06-28 添加futureversions汉化
+420573466e 2020-06-27 将所有全角%替换为半角%
+0ee786c822 2020-06-21 更新ae2fc翻译
+52e48adf0d 2020-06-21 sync
+24d327a873 2020-06-20 更新ae2fc翻译
+84a95af7c7 2020-06-16 Update zh_cn.lang
+18c6161468 2020-06-16 Revert "Update zh_cn.lang"
+58971167ec 2020-06-16 Update zh_cn.lang
+a82b36ee3b 2020-06-15 Update zh_cn.lang
+df279d1797 2020-06-15 ae2fc翻译
+109f005907 2020-06-14 添加progressivebosses翻译
+b990c60e35 2020-06-13 添加ftbultimine limitedlives翻译
+da8a737f76 2020-06-10 entangled翻译
+8000b638bb 2020-06-10 Iron Furnaces翻译
+3ebf637ff1 2020-06-10 添加dronecraft翻译
+befd0aa0ed 2020-05-14 修正错别字
+4ce7357513 2020-05-14 Merge branch '1.12.2' of https://github.com/ChromaPIE/Minecraft-Mod-Language-Package into 1.12.2
+a1d1dccf50 2020-05-14 Merge branches '1.12.2' and '1.12.2' of https://github.com/ChromaPIE/Minecraft-Mod-Language-Package into 1.12.2
+f7c434bba0 2020-05-11 Delete en_us.lang
+2a8e4309d9 2020-05-11 dankstorage翻译
+eabb3bcb4e 2020-05-06 更新itemstages翻译
+0830afaf26 2020-04-05 Translated using Weblate (Chinese)
+f4ac1f578a 2020-05-02 singularities翻译
+3c3ec1e493 2020-04-30 Merge branch '1.12.2' of https://github.com/ChromaPIE/Minecraft-Mod-Language-Package into 1.12.2
+064964601d 2020-04-30 Not Enough RTGs汉化
+3f740cad13 2020-04-30 Not Enough RTGs汉化
+fd57a19de7 2020-04-30 customcursormod汉化
+6d890849f3 2020-04-30 customcursormod汉化
+0f1c8dde42 2020-04-23 PortableCraft翻译
+885f6e5634 2020-04-21 Translated using Weblate (Chinese (Simplified))
+def1caaf6d 2020-04-19 两个新小mod翻译 (#702)
+ae0d2bb21c 2020-04-18 两个新小mod翻译
+b9ebe601ce 2020-04-16 更新Random Enchantments翻译
+47ab1d5e8e 2020-04-14 Translated using Weblate (Chinese (Simplified))
+423df98c4b 2020-04-14 Translated using Weblate (Chinese (Simplified))
+38d0e54caa 2020-04-05 Translated using Weblate (Chinese (Simplified))
+fc42ebb89a 2020-04-05 Translated using Weblate (Chinese (Simplified))
+0c267c7b6a 2020-04-05 Translated using Weblate (Chinese (Simplified))
+d493c1c4ee 2020-04-05 Translated using Weblate (Chinese (Simplified))
+2818866475 2020-04-05 Translated using Weblate (Chinese (Simplified))
+5553dbb880 2020-04-04 Translated using Weblate (Chinese (Simplified))
+75e2e20500 2020-04-04 Translated using Weblate (Chinese (Simplified))
+4b6f252f2a 2020-04-05 Translated using Weblate (Chinese)
+efbcf36f44 2020-04-04 Added translation using Weblate (Chinese)
+23c781879b 2020-04-03 Translated using Weblate (Chinese (Simplified))
+449bb3ff03 2020-04-02 Translated using Weblate (Chinese (Simplified))
+0151c8f5e1 2020-04-02 Translated using Weblate (Chinese (Simplified))
+0591e933c7 2020-04-02 Translated using Weblate (Chinese (Simplified))
+ca3c7bdd84 2020-04-02 Translated using Weblate (Chinese (Simplified))
+10b5b813e8 2020-04-02 Translated using Weblate (Chinese (Simplified))
+94615ec94e 2020-03-31 Translated using Weblate (Chinese (Simplified))
+2dd1c7d826 2020-03-29 Translated using Weblate (Chinese (Simplified))
+6c508103f9 2020-03-29 Translated using Weblate (Chinese (Simplified))
+a1cca93340 2020-03-26 Translated using Weblate (Chinese (Simplified))
+f471c5822a 2020-03-26 Translated using Weblate (Chinese (Simplified))
+5eed63b78d 2020-03-25 Translated using Weblate (Chinese (Simplified))
+dbaa4e2223 2020-03-24 Translated using Weblate (Chinese (Simplified))
+0e3bc281da 2020-03-24 Translated using Weblate (Chinese (Simplified))
+7ab8692649 2020-03-24 Translated using Weblate (Chinese (Simplified))
+1bb521a81d 2020-03-24 Translated using Weblate (Chinese (Simplified))
+05b96eeaa5 2020-03-24 Translated using Weblate (Chinese (Simplified))
+9d68df077c 2020-03-24 Translated using Weblate (Chinese (Simplified))
+a1c4587429 2020-03-24 Translated using Weblate (Chinese (Simplified))
+c4cb7747f1 2020-03-24 Translated using Weblate (Chinese (Simplified))
+90fd2c1f55 2020-03-24 Translated using Weblate (Chinese (Simplified))
+bc3759034b 2020-03-23 Translated using Weblate (Chinese (Simplified))
+00aa996b99 2020-03-23 Translated using Weblate (Chinese (Simplified))
+de38680515 2020-03-23 Translated using Weblate (Chinese (Simplified))
+8407e01518 2020-03-22 Translated using Weblate (Chinese (Simplified))
+5baa70e86f 2020-03-16 Translated using Weblate (Chinese (Simplified))
+463c6eb895 2020-03-17 Translated using Weblate (Chinese (Simplified))
+07f92149a6 2020-03-16 Translated using Weblate (Chinese (Simplified))
+8457a1c145 2020-03-16 Translated using Weblate (Chinese (Simplified))
+195d90dafe 2020-03-16 Added translation using Weblate (Chinese (Simplified))
+c39387eeec 2020-03-16 Translated using Weblate (Chinese (Simplified))
+4b550f1688 2020-03-16 Translated using Weblate (Chinese (Simplified))
+30ab50c1f9 2020-03-16 Translated using Weblate (Chinese (Simplified))
+15e4d3f9f2 2020-03-16 Translated using Weblate (Chinese (Simplified))
+675274fb01 2020-03-16 Translated using Weblate (Chinese (Simplified))
+2be018d20d 2020-03-09 Translated using Weblate (Chinese (Simplified))
+72ca7c1954 2020-03-07 Translated using Weblate (Chinese (Simplified))
+e9e5bd22d5 2020-03-06 Translated using Weblate (Chinese (Simplified))
+e12ec69313 2020-03-06 Translated using Weblate (Chinese (Simplified))
+0cbd0bf0de 2019-10-23 Translated using Weblate (Chinese (Simplified))
+490fd5073d 2019-10-23 Translated using Weblate (Chinese (Simplified))
+1f9ed899bf 2019-10-23 Translated using Weblate (Chinese (Simplified))
+4fd83344db 2019-10-23 Translated using Weblate (Chinese (Simplified))
