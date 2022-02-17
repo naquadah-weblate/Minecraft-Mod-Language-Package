@@ -2897,7 +2897,7 @@ gregtech.universal.tooltip.fluid_storage_capacity=流体储量：%,d mB
 gregtech.universal.tooltip.max_voltage_in=最大电压输入：§a%,d§7（§a%s§7）
 
 gregtech.recipe.total=电量总计：%,d EU
-gregtech.recipe.eu=输入功率%,d EU/t (%s)
+gregtech.recipe.eu=输入功率：%,d EU/t (%s)
 gregtech.recipe.eu_inverted=输出功率：%,d EU/t
 gregtech.recipe.duration=耗时：%,.1f 秒
 gregtech.recipe.amperage=电流：%,d
