@@ -1,12 +1,12 @@
 # BLOCKS
 tile.cyberware.surgery.name=机械手术核心
-item.cyberware.surgery_chamber.name=手术仓
-tile.cyberware.surgery_chamber.name=手术仓
-tile.cyberware.charger.name=数码控件充能器
-tile.cyberware.engineering_table.name=数码控件工程桌
-tile.cyberware.scanner.name=数码控件扫描仪
+item.cyberware.surgery_chamber.name=手术室
+tile.cyberware.surgery_chamber.name=手术室
+tile.cyberware.charger.name=机械充能器
+tile.cyberware.engineering_table.name=机械工程桌
+tile.cyberware.scanner.name=机械扫描仪
 tile.cyberware.blueprint_archive.name=蓝图档案柜
-item.cyberware.engineering_table.name=数码控件工程桌
+item.cyberware.engineering_table.name=机械工程桌
 tile.cyberware.component_box.name=元件收纳盒
 item.cyberware.component_box.name=元件收纳盒
 tile.cyberware.beacon.name=无线电装置
@@ -38,7 +38,7 @@ item.cyberware.cyberlimbs.cyberarm_right.name=机械右臂
 
 item.cyberware.manaseer_lens.lens.name=魔力先知晶状体
 item.cyberware.manaseer_lens.link.name=魔力链接
-item.cyberware.cybereyes.name=数控眼睛
+item.cyberware.cybereyes.name=机械眼睛
 item.cyberware.cybereye_upgrades.night_vision.name=暗光视觉增强器
 item.cyberware.cybereye_upgrades.underwater_vision.name=液体光线折射校准器
 item.cyberware.cybereye_upgrades.hudjack.name=抬头显示插件
@@ -157,9 +157,9 @@ cyberware.gui.removed=（将被移除）
 
 cyberware.gui.destroy=拆解
 cyberware.gui.destroy_chance=有%1$s概率获得蓝图
-cyberware.gui.to_destroy=放入要拆解的数码控件
+cyberware.gui.to_destroy=放入要拆解的机械
 cyberware.gui.paper=需要放入纸
-cyberware.gui.blueprint=需要放入数码控件蓝图
+cyberware.gui.blueprint=需要放入机械蓝图
 
 cyberware.gui.keybind.0=启动菜单帮助：
 cyberware.gui.keybind.1=将鼠标悬浮在对应版块上，释放菜单键以激活
@@ -409,7 +409,7 @@ cyberware.gui.scanner_saying.68=正在记忆 Lycaon
 
 
 # MISC
-cyberware.container.engineering=数码控件工程桌
+cyberware.container.engineering=机械工程桌
 cyberware.container.scanner=扫描仪
 cyberware.container.blueprint_archive=蓝图档案柜
 cyberware.container.component_box=元件收纳盒
